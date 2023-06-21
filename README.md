@@ -18,17 +18,39 @@ Para monitorear la eficacia de los objetivos de la empresa, se propone un KPI cl
 
 Tener instalado Python, un editor de texto como Visual Studio Code y powerBI para armar el dashboard.
 
+Datasets previos necesarios para el proyecto:
+* Coursera_courses.csv
+* Coursera_reviews.csv
+* edx_courses.csv
+* udemy_courses.csv
+* coursea_data.csv
+* Comments.csv
+
 ## Repositorio github
 
 Clonar el repositorio del link https://github.com/JoseGerchinhoren/PI1
 
 El cual posee los archivos:
 * README.md : Readme del proyecto.
-* coursera_courses_final
-* edx_courses_final
-* udemy_courses_final
-* PI02_EDA_José_final
-* moocs
+* coursera_courses_final.csv : dataset de coursera para powerBI.
+* edx_courses_final.csv : dataset de edx para powerBI.
+* udemy_courses_final.csv : dataset de udemy para powerBI.
+* Coursera_courses.csv : dataset de coursera.
+* coursea_data.csv : dataset de coursera.
+* edx_courses.csv : dataset de edx.
+* udemy_courses.csv : dataset de udemy.
+* PI02_EDA_José_final.ipynb : Analisis exploratorio de los datos realizado en notebook de python.
+* moocs.pbix : dashboard en powerBI.
+
+Links de descarga de datasets necesarios:
+
+https://drive.google.com/drive/folders/1TS76ok6giW7D_l5vc-zu5-cBU_dH3P5H
+
+https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset
+
+https://www.kaggle.com/datasets/hossaingh/udemy-courses
+
+Este dataset "Comments" es muy pesado por lo tanto no se lo puede subir a github.
 
 ## Conclusiones
 
