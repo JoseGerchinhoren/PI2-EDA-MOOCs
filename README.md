@@ -17,19 +17,19 @@ Para monitorear la eficacia de los objetivos de la empresa, se propone un KPI cl
 ## Imagenes de Dashboards
 
 ### Dashboard de Introducción
-![Dashboard de Introducción](Images/Intro.png)
+![Dashboard de Introducción](Images/Intro.PNG)
 *Menú de navegación para seleccionar uno de los tres dashboards disponibles.*
 
 ### Dashboard de Coursera
-![Dashboard de Coursera](Images/coursera.png)
+![Dashboard de Coursera](Images/coursera.PNG)
 *Visualizaciones y análisis de datos relacionados con cursos en Coursera.*
 
 ### Dashboard de edX
-![Dashboard de edX](Images/edx.png)
+![Dashboard de edX](Images/edx.PNG)
 *Visualizaciones y análisis de datos relacionados con cursos en edX.*
 
 ### Dashboard de Udemy
-![Dashboard de Udemy](Images/udemy.png)
+![Dashboard de Udemy](Images/udemy.PNG)
 *Visualizaciones y análisis de datos relacionados con cursos en Udemy.*
 
 ## Requisitos previos
