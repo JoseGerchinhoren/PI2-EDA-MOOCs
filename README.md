@@ -14,24 +14,6 @@ El proyecto cuenta con un EDA realizado con python y un dashboard realizado con 
 
 Para monitorear la eficacia de los objetivos de la empresa, se propone un KPI clave (Indicador Clave de Desempeño) denominado "Tasa de conversión de inscriptos gratuitos a inscriptos pagados". Este KPI se calcula dividiendo el número de inscriptos en cursos pagados entre el número de inscriptos en cursos gratuitos y multiplicándolo por 100. La empresa tiene como objetivo lograr un incremento del 15% en esta tasa en comparación con el año anterior. Este KPI solo se pudo analizar en el dataset de Udemy.
 
-## Imagenes de Dashboards
-
-### Dashboard de Introducción
-![Dashboard de Introducción](Images/Intro.PNG)
-*Menú de navegación para seleccionar uno de los tres dashboards disponibles.*
-
-### Dashboard de Coursera
-![Dashboard de Coursera](Images/coursera.PNG)
-*Visualizaciones y análisis de datos relacionados con cursos en Coursera.*
-
-### Dashboard de edX
-![Dashboard de edX](Images/edx.PNG)
-*Visualizaciones y análisis de datos relacionados con cursos en edX.*
-
-### Dashboard de Udemy
-![Dashboard de Udemy](Images/udemy.PNG)
-*Visualizaciones y análisis de datos relacionados con cursos en Udemy.*
-
 ## Requisitos previos
 
 Tener instalado Python, un editor de texto como Visual Studio Code y powerBI para armar el dashboard.
@@ -69,6 +51,25 @@ https://www.kaggle.com/datasets/siddharthm1698/coursera-course-dataset
 https://www.kaggle.com/datasets/hossaingh/udemy-courses
 
 Este dataset "Comments" es muy pesado por lo tanto no se lo puede subir a github.
+
+## Imagenes de Dashboards
+
+### Dashboard de Introducción
+![Dashboard de Introducción](Images/Intro.PNG)
+*Menú de navegación para seleccionar uno de los tres dashboards disponibles.*
+
+### Dashboard de Coursera
+![Dashboard de Coursera](Images/coursera.PNG)
+*Visualizaciones y análisis de datos relacionados con cursos en Coursera.*
+
+### Dashboard de edX
+![Dashboard de edX](Images/edx.PNG)
+*Visualizaciones y análisis de datos relacionados con cursos en edX.*
+
+### Dashboard de Udemy
+![Dashboard de Udemy](Images/udemy.PNG)
+*Visualizaciones y análisis de datos relacionados con cursos en Udemy.*
+
 
 ## Conclusiones
 
